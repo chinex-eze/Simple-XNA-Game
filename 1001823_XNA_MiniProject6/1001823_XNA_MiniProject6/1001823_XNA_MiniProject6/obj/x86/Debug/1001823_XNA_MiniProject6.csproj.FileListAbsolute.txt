@@ -1,0 +1,40 @@
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\StarNight.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\StarNight.jpg
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\1001823_XNA_MiniProject6.exe
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\1001823_XNA_MiniProject6.pdb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\1001823_XNA_MiniProject6.exe
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\1001823_XNA_MiniProject6.pdb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\ship2.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\metal_0.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\Ship.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\ShipTexture_0.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Sounds\game_GB_sound.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Sounds\missile_sound.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile1.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile.png
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile1.png
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\StarNight.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile1.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\Ship.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\ship2.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Sounds\missile_sound.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Sounds\game_GB_sound.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\ShipTexture_0.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\metal_0.xnb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\StarNight.jpg
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile.png
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Images\missile1.png
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\1001823_XNA_MiniProject6.exe
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\1001823_XNA_MiniProject6.pdb
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\1001823_XNA_MiniProject6.exe
+C:\Users\Chinedu\Desktop\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\obj\x86\Debug\1001823_XNA_MiniProject6.pdb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\eurofighter.xnb
+C:\Users\Chinedu\Documents\Visual Studio 2010\Projects\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\1001823_XNA_MiniProject6\bin\x86\Debug\Content\Models\Lava_Lamp_Missile.xnb
